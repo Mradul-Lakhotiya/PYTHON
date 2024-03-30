@@ -1,0 +1,49 @@
+2024-03-15 08:00:00 Vortex : Hi there, how are you?
+2024-03-15 08:00:10 User : I'm doing well, thank you!
+2024-03-15 08:02:00 Vortex : What's your name?
+2024-03-15 08:02:10 User : Hi There I am Vortex You can call me Vort
+2024-03-15 08:04:00 Vortex : Can you tell me a joke?
+2024-03-15 08:04:15 User : Why don't scientists trust atoms? Because they make up everything!
+2024-03-15 08:06:00 Vortex : Open Spotify
+2024-03-15 08:06:10 User : (User listens to music on Spotify)
+2024-03-15 08:08:00 Vortex : What time is it?
+2024-03-15 08:08:30 User : 08:08 AM
+2024-03-15 08:10:00 Vortex : Open YouTube
+2024-03-15 08:10:20 User : (User watches videos on YouTube)
+2024-03-15 08:12:00 Vortex : What's your favorite song?
+2024-03-15 08:12:05 User : I don't have that feature yet
+2024-03-15 08:14:00 Vortex : Stop
+
+2024-02-15 08:00:00 Vortex : Hi there, how are you?
+2024-02-15 08:00:10 User : I'm doing great today!
+2024-02-15 08:02:00 Vortex : What's your name?
+2024-02-15 08:02:10 User : Hi There I am Vortex You can call me Vort
+2024-02-15 08:04:00 Vortex : Can you tell me a joke?
+2024-02-15 08:04:15 User : Why did the scarecrow win an award? Because he was outstanding in his field!
+2024-02-15 08:06:00 Vortex : Open Spotify
+2024-02-15 08:06:10 User : (User listens to music on Spotify)
+2024-02-15 08:08:00 Vortex : What time is it?
+2024-02-15 08:08:30 User : 08:08 AM
+2024-02-15 08:10:00 Vortex : Open YouTube
+2024-02-15 08:10:20 User : (User watches videos on YouTube)
+2024-02-15 08:12:00 Vortex : What's your favorite song?
+2024-02-15 08:12:05 User : I don't have that feature yet
+2024-02-15 08:14:00 Vortex : Stop
+
+2024-01-15 08:00:00 Vortex : Hi there, how are you?
+2024-01-15 08:00:10 User : I'm feeling fantastic today!
+2024-01-15 08:02:00 Vortex : What's your name?
+2024-01-15 08:02:10 User : Hi There I am Vortex You can call me Vort
+2024-01-15 08:04:00 Vortex : Can you tell me a joke?
+2024-01-15 08:04:15 User : Why don't skeletons fight each other? They don't have the guts!
+2024-01-15 08:06:00 Vortex : Open Spotify
+2024-01-15 08:06:10 User : (User listens to music on Spotify)
+2024-01-15 08:08:00 Vortex : What time is it?
+2024-01-15 08:08:30 User : 08:08 AM
+2024-01-15 08:10:00 Vortex : Open YouTube
+2024-01-15 08:10:20 User : (User watches videos on YouTube)
+2024-01-15 08:12:00 Vortex : What's your favorite song?
+2024-01-15 08:12:05 User : I don't have that feature yet
+2024-01-15 08:14:00 Vortex : Stop
+Logs are here
+Logs are here
